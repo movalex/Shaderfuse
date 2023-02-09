@@ -61,7 +61,7 @@ ST_CrazynessParams =
 
 ST_CrazynessKernel =
     [[
-
+//begin=glsl//
 
 #undef USE_NATIVE_METAL_IMPL
 #undef USE_NATIVE_CUDA_IMPL
@@ -172,6 +172,7 @@ __KERNEL__ void ST_CrazynessKernel(
   float green        = params->g;
   float blue         = params->b;
   float alpha        = params->a;
+  float gain         = params->gain;
 
   //##########################################################################
 
@@ -191,7 +192,7 @@ __KERNEL__ void ST_CrazynessKernel(
     float f =  clamp((rz - map(px+0.1f,iTime))*0.5f, -0.1f, 1.0f );
 //  float3 l = to_float3(0.1f,0.3f,0.4f) + to_float3(5.0f, 2.5f, 3.0f)*f;
     float3 l = to_float3(red,green,blue) + to_float3(5.0f, 2.5f, 3.0f)*f;
-    cl = cl*l + (1.0f-smoothstep(0.0f, 2.5f, rz))*0.7f*l;
+    cl = cl*l + (1.0f-smoothstep(0.0f, 2.5f, rz))*gain*l;
     d += min(rz, 1.0f);
 	}
   fragColor = to_float4_aw(cl, alpha);
@@ -203,7 +204,7 @@ __KERNEL__ void ST_CrazynessKernel(
   _tex2DVec4Write(dst, x, y, fragColor);
 
 }
-
+//end=glsl//
 ]]
 
 
@@ -281,7 +282,14 @@ function Create()
 		INP_Default  = 1.0,
 		IC_ControlGroup = 1,
 		IC_ControlID = 3,
-	})
+	}),
+   InGain = self:AddInput("Gain", "Gain", {
+    LINKID_DataType    = "Number",
+    INPID_InputControl = "SliderControl",
+    INP_Default        = 0.7,
+    INP_MinScale 	     = 0.0,
+    INP_MaxScale 	     = 10.0,
+  })
 
   self:EndControlNest()
 
@@ -354,6 +362,7 @@ function Process(req)
     params.width        = src1.DataWindow:Width()
     params.height       = src1.DataWindow:Height()
     params.iTime        = req.Time / framerate
+    params.gain         = InGain:GetValue(req).Value
     node:SetParamBlock(params)
   end) then
     params              = node:GetParamBlock(ST_CrazynessParams)
@@ -366,6 +375,7 @@ function Process(req)
     params.width        = src1.DataWindow:Width()
     params.height       = src1.DataWindow:Height()
     params.iTime        = req.Time / framerate
+    params.gain         = InGain:GetValue(req).Value
     node:SetParamBlock(params)
   end
 
