@@ -51,6 +51,7 @@ ST_CrazynessParams =
   int   height;
   float iTime;
   int   compOrder;
+  float gain;
 ]]
 
 
@@ -282,13 +283,13 @@ function Create()
 		INP_Default  = 1.0,
 		IC_ControlGroup = 1,
 		IC_ControlID = 3,
-	}),
+	})
    InGain = self:AddInput("Gain", "Gain", {
-    LINKID_DataType    = "Number",
-    INPID_InputControl = "SliderControl",
-    INP_Default        = 0.7,
-    INP_MinScale 	     = 0.0,
-    INP_MaxScale 	     = 10.0,
+		LINKID_DataType      = "Number",
+		INPID_InputControl   = "SliderControl",
+		INP_Default          = 0.7,
+		INP_MinScale 	     = 0.0,
+		INP_MaxScale 	     = 10.0,
   })
 
   self:EndControlNest()
