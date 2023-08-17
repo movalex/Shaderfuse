@@ -15,8 +15,8 @@ info = {
     },
 
     Compatibility = {
-        macOS_Metal    = nil,
-        macOS_OpenCL   = nil,
+        macOS_Metal    = true,
+        macOS_OpenCL   = true,
         Windows_CUDA   = true,
         Windows_OpenCL = true,
     },

@@ -1,4 +1,4 @@
-**Setup**  | [Repository Tools](Scripts/Comp/Shaderfuse/Repository%20Tools/README.md) | [Snipptes](Snippets/README.md)
+[README](../README.md)  | **Setup** | [Repository Tools](Scripts/Comp/Shaderfuse/Repository%20Tools/README.md)
 
 # Tools
 
@@ -15,7 +15,7 @@ Drag'n'drop `Setup.lua`on your Fuison working area - and you are done or nuked. 
 * Drag and drop `Tools/Setup.lua` from your working copy on your DaFusions working area
 * Check the 'Integrate the repository Tools into Script menu'  to - guess what - integrate the repository Tools into the Script menu
 
-![Setup](../Site/Setup.png)
+![Setup](Setup.png)
 
 **IMPORTANT!** In particular if you are on Windows: don't forget to uncheck all options and to then save the configuration before moving or deleting your Shaderfuse working copy!
 
@@ -91,7 +91,7 @@ See [Scripts/Comp/Shaderfuse/Repository Tools/](Scripts/Comp/Shaderfuse/Reposito
 
 ## Documentation
 
-Folder: [Documentation/](Documentation/)
+Folder: [Documentation/](Documentation/) ... see [github.io/Shaderfuse/Documentation/](https://nmbr73.github.io/Shaderfuse/Documentation/)
 
 ...
 

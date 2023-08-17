@@ -13,6 +13,320 @@ This is a list of the shadertoys I've tried to convert in some way. Its purpose 
 
 | Name | Type | Comment |
 | ------ | :------: | ------ |
+|[bomlka](https://www.shadertoy.com/view/mtXyD7)| fuse | Shader of the Week 33/23 |
+|[Inside the Matrix](https://www.shadertoy.com/view/4t3BWl)| incub | !! |
+|[[SH17A] Ripple](https://www.shadertoy.com/view/MdSBWh)| incub |  |
+|[Falling magic sand](https://www.shadertoy.com/view/XtjyRt)| incub | A ! Blending |
+|[Another eye](https://www.shadertoy.com/view/4dSXDR)| incub | !! |
+|[Fountain water](https://www.shadertoy.com/view/7tBcDc)| incub |  |
+|[swirly background](https://www.shadertoy.com/view/stcyW8)| incub |  |
+|[Portal - iOS AR](https://www.shadertoy.com/view/lldcR8)| incub | A |
+|[Shader of a Fazine of shaders](https://www.shadertoy.com/view/WsBXzy)| incub | ABCD !!! |
+|[Colourful smoke](https://www.shadertoy.com/view/DtsyWl)| incub |  |
+|[SDF Alpha texture](https://www.shadertoy.com/view/4dSczy)| incub |  |
+|[Mr 0110](https://www.shadertoy.com/view/XtyGWm)| incub | !! |
+|[chemistry!](https://www.shadertoy.com/view/fsjXWd)| incub | A !!! Blending |
+|[triangulation effect - delaunay](https://www.shadertoy.com/view/MlsyzS)| incub | ABCD !! Blending |
+|[volumetric cloud](https://www.shadertoy.com/view/tt23zR)| incub | Wolke !! |
+|[webcam on ufo](https://www.shadertoy.com/view/WsyfzR)| incub |  |
+|[AMERICA](https://www.shadertoy.com/view/MdlXRj)| incub | Flagge ! |
+|[Airplane - Modelling Exercise](https://www.shadertoy.com/view/3lcyWX)| incub | !! |
+|[kifs walls](https://www.shadertoy.com/view/mlS3DV)| incub | Shader of the Week 29/23 - Nur Cuda |
+|[Nebula Contraction](https://www.shadertoy.com/view/tlV3zw)| incub | ABC !! |
+|[PlazmaGlob](https://www.shadertoy.com/view/wddyzH)| incub |  |
+|[For Winnie](https://www.shadertoy.com/view/st2SRt)| incub | Doppelherz |
+|[Wave Cave](https://www.shadertoy.com/view/7ljXzG)| incub |  |
+|[Shivershade slime](https://www.shadertoy.com/view/clXcW8)| incub | ABCD !!! Blending |
+|[ROCK PLANET](https://www.shadertoy.com/view/sdX3Dr)| incub |  |
+|[Fire in the Wind - 2](https://www.shadertoy.com/view/WtjGR3)| incub |  |
+|[Heart_Fireworks_remake](https://www.shadertoy.com/view/wssfzr)| incub | !! |
+|[Failed Spline Idea](https://www.shadertoy.com/view/7tVXDc)| incub | !! |
+|[Fractal orbits](https://www.shadertoy.com/view/wlKGzR)| incub |  |
+|[perpetual fluidy fluid](https://www.shadertoy.com/view/DdsfRB)| incub | ABCD !! Blending |
+|[Watching videos](https://www.shadertoy.com/view/cdSGWy)| incub | !! |
+|[Wavepool](https://www.shadertoy.com/view/3stGRM)| incub | A ! |
+|[Automata Lab X (alien scribble)](https://www.shadertoy.com/view/ddSBDV)| defect | AB kein Bild |
+|[fbm lightning](https://www.shadertoy.com/view/dsXfDn)| incub | !! |
+|[Bubble Machine](https://www.shadertoy.com/view/WsSBRD)| incub | !!! |
+|[shallow water](https://www.shadertoy.com/view/ldcSzS)| incub | A |
+|[Nebula Contraction](https://www.shadertoy.com/view/tlV3zw)| incub | ABC !! |
+|[Packed Single Rotation Rule](https://www.shadertoy.com/view/tlKBWm)| incub | ABCD !! Blending|
+|[Water_001](https://www.shadertoy.com/view/ltsBzs)| incub | A !! |
+|[polarising crystal candy](https://www.shadertoy.com/view/WlccDj)| defect | ABCD etwas anderes Verahlten ( TexelFetch ?) |
+|[Australian Summer](https://www.shadertoy.com/view/ssdGRX)| Fuse | Korrigiert |
+|[Magic Bits](https://www.shadertoy.com/view/lsfyDn)| incub |  |
+|[Screen Transition](https://www.shadertoy.com/view/MlcXDj)| incub | ! |
+|[pyro](https://www.shadertoy.com/view/4ty3zG)| incub | AB !! |
+|[MT](https://www.shadertoy.com/view/ls2fWW)| incub | !! |
+|[Swirly Swirl Girl](https://www.shadertoy.com/view/wldyDH)| incub | A ! |
+|[Rain Frog](https://www.shadertoy.com/view/cdSBD1)| incub | ! |
+|[Branching Flow Slime Mold](https://www.shadertoy.com/view/mdSfWh)| incub | ABCD !! Blending |
+|[Slime Battles](https://www.shadertoy.com/view/DssGRf)| defect | ABC Snorm2x16 Emulation funktioniert nicht  |
+|[Liquid Crystal Labyrinth](https://www.shadertoy.com/view/7tScDW)| incub | A !! |
+|[longexposure](https://www.shadertoy.com/view/stByzh)| incub | !! |
+|[Whack-A-Mole Pistons](https://www.shadertoy.com/view/WtXcWB)| incub | Shader of the Week 29/23 |
+|[Things you wouldn't believe](https://www.shadertoy.com/view/MttfDr)| incub | A !! |
+|[Fork: It is alive...with music!](https://www.shadertoy.com/view/dd2BR1)| incub | A Integriert in "It is alive"  |
+|[Courant Noise](https://www.shadertoy.com/view/cslBWX)| incub | ABCD !! |
+|[Fluid Fireworks](https://www.shadertoy.com/view/llXfRn)| incub | ABCD !! |
+|[Bubbles with depth of field blur](https://www.shadertoy.com/view/DdfBDs)| defect | A  |
+|[greenstem](https://www.shadertoy.com/view/XsXczH)| incub | A !!! Blending |
+|[#002](https://www.shadertoy.com/view/msfBRj)| incub |  |
+|[Liquid warping](https://www.shadertoy.com/view/3lsSWN)| incub | AB !! |
+|[Sound Electro](https://www.shadertoy.com/view/XdGGD3)| incub | ! |
+|[Weird fluid experment](https://www.shadertoy.com/view/ts2fRV)| incub | ABCD !!! Blending |
+|[playing with paint reintracking](https://www.shadertoy.com/view/DscSDM)| incub | ABC !!!! Blending |
+|[Genuary 2022 - Day16](https://www.shadertoy.com/view/7dsyRl)| incub | A !! |
+|[Particle Repulsions](https://www.shadertoy.com/view/dlBSzV)| incub | AB !! |
+|[Burn effect](https://www.shadertoy.com/view/tsByWd)| incub | !! |
+|[Burn for eternity](https://www.shadertoy.com/view/ddlfRn)| incub |  |
+|[It is alive...](https://www.shadertoy.com/view/ctcGR8)| incub | A !! |
+|[Music Abstract Grassy Space](https://www.shadertoy.com/view/Ds2yDy)| incub | !! |
+|[Diamonds and Diagonals](https://www.shadertoy.com/view/DtyXDR)| incub | ShaderOfTheWeek 23/23  - Reflektionen fehlerhaft|
+|[MLAA (provided by AMD)](https://www.shadertoy.com/view/cllXRB)| incub | AB  |
+|[Ginzburg-Landau Equation](https://www.shadertoy.com/view/XlsyWn)| incub | A !!! Blending |
+|[Reaction Diffusion RGB](https://www.shadertoy.com/view/4dKfWR)| incub | ABC !! Blending |
+|[Fork Between th electrogly 868](https://www.shadertoy.com/view/mdjcW1)| incub | A |
+|[Simple Text Example](https://www.shadertoy.com/view/XlfSzj)| incub |  |
+|[fluid_thingy_2](https://www.shadertoy.com/view/WdfBRM)| incub | A !!! Blending |
+|[invisible ink](https://www.shadertoy.com/view/tdBczy)| incub | A !! Blending |
+|[Unlimited Particle Simulation](https://www.shadertoy.com/view/sdB3zt)| incub | A ! |
+|[Fluid Fork](https://www.shadertoy.com/view/wtsBzf)| incub | ABCD !! Blending |
+|[Interactive Fluid Simulation](https://www.shadertoy.com/view/XtGcDK)| incub | ABCD !! Blending |
+|[Neural CA-2](https://www.shadertoy.com/view/mtyXRd)| incub | A Blending |
+|[stained glass](https://www.shadertoy.com/view/WsS3Dc)| defect | ABCD BufferB liefert anderes Ergebnis  |
+|[Simple game of life](https://www.shadertoy.com/view/mtKXDw)| incub | A !! Blending |
+|[blood on water](https://www.shadertoy.com/view/DtVXWw)| incub | AB Blending !! |
+|[selective depth of field](https://www.shadertoy.com/view/clySWw)| incub | !! |
+|[scan the area](https://www.shadertoy.com/view/tsKBR3)| incub | ! |
+|[Frozen Window](https://www.shadertoy.com/view/7syXWz)| incub | AB ! |
+|[Ghost Silent Disco](https://www.shadertoy.com/view/ld3XWr)| incub | ! |
+|[Playing around shader](https://www.shadertoy.com/view/NdscDf)| fuse | ShaderOfTheWeek 22/23 |
+|[Candy Stacks](https://www.shadertoy.com/view/fdV3Rm)| incub | ! |
+|[Twisted Time](https://www.shadertoy.com/view/XlsyWH)| incub | ! |
+|[Corona Time](https://www.shadertoy.com/view/wsfcRX)| incub | ! |
+|[Elastic Goop](https://www.shadertoy.com/view/3tSSW3)| incub | AB !! Blending |
+|[2&3](https://www.shadertoy.com/view/3lsXzr)| incub | ABCD !!! Blending |
+|[Infinite Hermite Rectangles](https://www.shadertoy.com/view/MtsXzl)| incub | ! |
+|[Multitabletverse](https://www.shadertoy.com/view/XlG3Dd)| defect | dfdx textureGrad |
+|[Corona Time](https://www.shadertoy.com/view/wsfcRX)| incub | Reflect ! |
+|[3D Function Grapher](https://www.shadertoy.com/view/mlGGWw)| incub |  |
+|[warhol-izer ;-)](https://www.shadertoy.com/view/tlsfRS)| incub |  |
+|[12-03-2022 MM Experiment](https://www.shadertoy.com/view/NdjBDV)| incub |  |
+|[Volumetric gobo/projector](https://www.shadertoy.com/view/dlcSDH)| incub | ! |
+|[poor hydraulic erosion](https://www.shadertoy.com/view/XsKGWG)| incub | A !! Blending |
+|[CombFuse: Naive RGB Edge Detection ](https://www.shadertoy.com/view/slXSz8)| incub | ! |
+|[CombFuse: Some sort of DareDevil Effect](https://www.shadertoy.com/view/NlfSRH)| incub | ! |
+|[CombFuse: scanning line, scanner](https://www.shadertoy.com/view/dlcSz8)| incub | ! |
+|[DNA Glass Refraction 03-sep-2021](https://www.shadertoy.com/view/7dcGWX)| incub | ShaderOfTheWeek 21/23 naja -- |
+|[iPhone 13 pro wallpaper](https://www.shadertoy.com/view/fdVGWK )| incub | A !! |
+|[Screen Welding](https://www.shadertoy.com/view/dtdSRn)| incub | A |
+|[Fork molten bis Yunchen 050](https://www.shadertoy.com/view/ct3XRr)| incub | AB !!!  |
+|[melting wax britney](https://www.shadertoy.com/view/XtlfRl)| incub | AB ! |
+|[One Phone](https://www.shadertoy.com/view/4stGzj)| incub | !! |
+|[vt220 coding at night edition](https://www.shadertoy.com/view/Dl3SRn)| incub | A !! |
+|[Infinite spheres in spheres](https://www.shadertoy.com/view/dtyGWd)| Fuse | !!!! 7 Channels|
+|[Terrain With Altitude Map](https://www.shadertoy.com/view/WlsfDj)| incub | AB |
+|[Telephone](https://www.shadertoy.com/view/ldVyDG)| incub | A !!!  |
+|[Cellphone](https://www.shadertoy.com/view/MdfSRs)| incub | !!! |
+|[Smooth Triplanar Mapping](https://www.shadertoy.com/view/ctV3W3)| incub |  |
+|[Tissue](https://www.shadertoy.com/view/XdBSzd)| fuse | ShaderOfTheWeek 20/23 |
+|[Crazy Printer](https://www.shadertoy.com/view/DtKGWy)| defect | Fotos werden falsch gerendert |
+|[Shadering Chameleon V2.0](https://www.shadertoy.com/view/Msc3z8)| incub | !!! |
+|[Coffee and Tablet](https://www.shadertoy.com/view/lssGzn)| fuse | !!!  |
+|[2d_clickable_smoke_simulation](https://www.shadertoy.com/view/dtGGRK)| incub | AB !!! Blending |
+|[Twisted corridor](https://www.shadertoy.com/view/mtV3Ry)| incub |  |
+|[liquid nightmare swirl](https://www.shadertoy.com/view/dtKGRy)| incub | A !!! Blending |
+|[Liquid Paint + Lighting](https://www.shadertoy.com/view/WstcRN)| incub | AB |
+|[Audio ball curl to lava](https://www.shadertoy.com/view/DtK3Dw)| incub | !! |
+|[Fork glitch fee suwqymncwe 828](https://www.shadertoy.com/view/ctVGWw)| incub | A ! |
+|[Coupled FitzHugh-Nagumo](https://www.shadertoy.com/view/MtscWn)| incub | AB !! Blending |
+|[Doom Fire AlanToy](https://www.shadertoy.com/view/wlGBWt)| incub | AB !! Blending |
+|[AI not included](https://www.shadertoy.com/view/ctd3Rl)| fuse | ShaderOfTheWeek 19/23 |
+|[Terrain and Erosion Test](https://www.shadertoy.com/view/mssXRB)| incub | ABC ! Blending NaN/Inf |
+|[aquarellic](https://www.shadertoy.com/view/4sKfRR)| fuse | ! |
+|[Cellular automaton waves](https://www.shadertoy.com/view/DttGDX)| incub | ABC powf-Problem !! Blending |
+|[CombFuse: Image transition-noise](https://www.shadertoy.com/view/sdySDd)| incub |  |
+|[CombFuse: texture transition by texture](https://www.shadertoy.com/view/tdlXzs)| incub |  |
+|[CombFuse: Disintegration Transition](https://www.shadertoy.com/view/lslSz7)| incub |  |
+|[CombFuse: Alpha erosion](https://www.shadertoy.com/view/tlfSRS)| incub |  |
+|[CombFuse: Noise curl clone](https://www.shadertoy.com/view/Wtj3Wm)| incub |  |
+|[CombFuse: Ripple Texture Transition](https://www.shadertoy.com/view/3ljfzV)| incub |  |
+|[Bouncing Ball With Trail](https://www.shadertoy.com/view/MlXcDB)| incub | AB ! |
+|[AI not included](https://www.shadertoy.com/view/ctd3Rl)| incub | ! |
+|[Gray-Scott diffusion selection](https://www.shadertoy.com/view/mt3GDj)| incub | A !! |
+|[A circle a day](https://www.shadertoy.com/view/DdySzW)| incub | ShaderOfTheWeek 18/23 |
+|[Bicycle Day 2023](https://www.shadertoy.com/view/mlt3z8)| incub |  |
+|[Water on the planet](https://www.shadertoy.com/view/DlcGRn)| incub | ABC |
+|[WaterRipplesCamera](https://www.shadertoy.com/view/cdyXWd)| incub |  |
+|[Photo Album](https://www.shadertoy.com/view/cdGXDt)| incub |  |
+|[The evolution of motion ](https://www.shadertoy.com/view/cl3GDr)| incub |  |
+|[CombFuse: Aurora?](https://www.shadertoy.com/view/ddVSDm)| incub |  |
+|[CombFuse: Image Fade-In Effect](https://www.shadertoy.com/view/MlcSz2)| incub |  |
+|[CombFuse: HighlightTexture](https://www.shadertoy.com/view/dl3GR8)| incub |  |
+|[Combfuse: Tunnel Effect Shader ](https://www.shadertoy.com/view/4djBRm)| incub |  |
+|[Combfuse: Turbulance](https://www.shadertoy.com/view/mlcGR8)| incub | ! |
+|[Sinapsis](https://www.shadertoy.com/view/csKSD3)| incub |  |
+|[Music Boxes](https://www.shadertoy.com/view/cdGXDK)| incub | Audioshader |
+|[chalk mouse](https://www.shadertoy.com/view/ctsGRf)| incub | A Blending ! |
+|[simpleHeartBeatingDemo](https://www.shadertoy.com/view/csc3W2)| incub | ! |
+|[Immersed](https://www.shadertoy.com/view/DsKXDW)| incub | ABCD ! |
+|[RetroVision (Revision 2023)](https://www.shadertoy.com/view/DdVSzR)| Fuse | ShaderOfTheWeek 15/23 |
+|[Malmousque](https://www.shadertoy.com/view/fldSRB)| defect | kein Bildaufbau |
+|[firefly swarm](https://www.shadertoy.com/view/DdGSW1)| incub | ABC ! |
+|[Neon worm](https://www.shadertoy.com/view/clB3RK)| incub | ABC ! |
+|[Polyhedral Gears](https://www.shadertoy.com/view/lt3cz7)| Fuse | !!! |
+|[rain drop - correct on video](https://www.shadertoy.com/view/dsySRW)| incub |  |
+|[2D fog](https://www.shadertoy.com/view/NdKGzz)| incub | ! |
+|[Landau Ginzburg Mod](https://www.shadertoy.com/view/tdcXzH)| incub | ABCD !! Blending |
+|[Particle plasma](https://www.shadertoy.com/view/3s3XRS)| incub | AB !!! Blending |
+|[2.5D Column Shadows Thingy](https://www.shadertoy.com/view/dsGSzh)| incub | AB !! Blending |
+|[shockwave](https://www.shadertoy.com/view/mscXDX)| incub | ! |
+|[A WEDDING OF WISPS](https://www.shadertoy.com/view/cdcSDX)| incub | ABC ! |
+|[Balloonfest '86](https://www.shadertoy.com/view/ds3XWS)| incub | A !!! Texturen auf Ballon |
+|[2D Rayleigh Taylor instability](https://www.shadertoy.com/view/DsGGzG)| incub | ABCD  |
+|[Malmousque](https://www.shadertoy.com/view/fldSRB)| Defect | Buffer B fehlerhaft |
+|[Electric Eel Universe](https://www.shadertoy.com/view/cdV3DW)| Fuse | ShaderOfTheWeek 11/23 |
+|[Kaleidoscope 3000](https://www.shadertoy.com/view/DslSWH)| incub |  |
+|[Height Blend](https://www.shadertoy.com/view/wsKXRc)| incub | AB !! |
+|[Peakmeter LEDs](https://www.shadertoy.com/view/wdVXRV)| incub | ! |
+|[Grow your own broccoli](https://www.shadertoy.com/view/fsj3zm)| incub | AB Blending |
+|[squared anti-fluid](https://www.shadertoy.com/view/sdsXzN)| incub | A ! Blending |
+|[wisps](https://www.shadertoy.com/view/sdtGzj)| incub | A !! Blending |
+|[We need an expert.. Dave Hoskins](https://www.shadertoy.com/view/dsc3RS)| defect | kein Bild |
+|[Neighbor graph SPH](https://www.shadertoy.com/view/3d2czG)| defect | nur 2 Particles  |
+|[Chimera's Breath](https://www.shadertoy.com/view/4tGfDW)| incub | ABCD !! Blending |
+|[Dirac Equation](https://www.shadertoy.com/view/WdBBR3)| incub | ABCD !!! Blending |
+|[Heat mapped John Conway's Game ](https://www.shadertoy.com/view/mdVGDh)| incub | A ! Blending |
+|[Share](https://www.shadertoy.com/view/3ddXzH)| incub | A ! |
+|[Growth and Death](https://www.shadertoy.com/view/4styRN)| incub | AB ! Blending |
+|[Hyperbolic Group Limit Set](https://www.shadertoy.com/view/NstSDs)| fuse | ShaderOFTheWeek 10/23 |
+|[Gasoline](https://www.shadertoy.com/view/mdyGzD)| incub | ABC !! Blending |
+|[CombFuse: GooeyVignette V2 ](https://www.shadertoy.com/view/MtXfDj)| incub |  |
+|[CombFuse: SlimeBorders ](https://www.shadertoy.com/view/csy3zD)| incub |  |
+|[CombFuse: SlimeBorders2 ](https://www.shadertoy.com/view/Mllfz2)| incub |  |
+|[CombFuse: SlimeHoles](https://www.shadertoy.com/view/4lXfzX)| incub |  |
+|[Lakeside](https://www.shadertoy.com/view/MtsBRH)| incub | ABCD ! Feuerwerk |
+|[The wall of speakers by yasuo](https://www.shadertoy.com/view/cd33Rj)| incub | ! Integriert in WallOfColors |
+|[Waving particle surface](https://www.shadertoy.com/view/dsdGW2)| incub | ABCD |
+|[Planetary nebula](https://www.shadertoy.com/view/fl2Bzd)| incub |  |
+|[Green Field Diorama](https://www.shadertoy.com/view/7dSGW1)| fuse | AB ShaderOfTheWeek 09/23 |
+|[LCARS Display](https://www.shadertoy.com/view/std3RH)| incub | Textprint verhält sich anders - workaround gefunden |
+|[Random Asymmetric Quad Grid](https://www.shadertoy.com/view/ms3GzH)| fuse | A !! |
+|[handmade textures test](https://www.shadertoy.com/view/DtjSWK)| defect | Fehlerhaft |
+|[CombFuse: 301's Fire Shader - Remix 2](https://www.shadertoy.com/view/MtcGD7)| incub |  |
+|[CombFuse: bloody Britney](https://www.shadertoy.com/view/MtKXWD)| incub |  |
+|[CombFuse: fresnel distortion](https://www.shadertoy.com/view/XtKSDm)| incub |  |
+|[CombFuse: droste_effect](https://www.shadertoy.com/view/MtGSzV)| incub |  |
+|[Melted Wax](https://www.shadertoy.com/view/dscGz4)| fuse | ABC !! Blending |
+|[Sediment](https://www.shadertoy.com/view/mdc3Rn)| fuse | ABC !! Blending |
+|[Watershed](https://www.shadertoy.com/view/md3GRn)| fuse | ABC !! Blending |
+|[Reaction Diffusion](https://www.shadertoy.com/view/DtBXWG)| fuse | ABCD !! Blending |
+|[Liquid Disco](https://www.shadertoy.com/view/Dt2XWK)| fuse | AB !!! Blending |
+|[Reaction speed up](https://www.shadertoy.com/view/cl2SzW)| incub | ABCD ! Blending |
+|[Wet neural network](https://www.shadertoy.com/view/mlBXRK)| incub |  |
+|[Sprinkler](https://www.shadertoy.com/view/mlBSRd)| incub | AB |
+|[Particle Fluid 1](https://www.shadertoy.com/view/dljXWW)| incub | AB |
+|[Paint Crack](https://www.shadertoy.com/view/fdlGDB)| incub | ABCD !! Blending |
+|[Techno-plankton in alien ocean](https://www.shadertoy.com/view/dtfSzs)| incub |  |
+|[noise_experiment_2](https://www.shadertoy.com/view/3s3SRH)| incub |  |
+|[fluid with more comments](https://www.shadertoy.com/view/wllXWs)| incub | A ! |
+|[CombFuse: pulsating intestines ](https://www.shadertoy.com/view/mlsXDj)| incub | ! |
+|[CombFuse: Pulsing Guts](https://www.shadertoy.com/view/clXXDl)| incub |  |
+|[Nintendo Switch](https://www.shadertoy.com/view/wtlXRH)| fuse | A !! ShaderOfTheWeek 06/23 |
+|[Paper Plane Sonar UI ](https://www.shadertoy.com/view/Dl2XRz)| incub | Messdatenanzeige "Cockpit" |
+|[fluid 3](https://www.shadertoy.com/view/DlBSzw)| incub | AB ! |
+|[Box - intersection](https://www.shadertoy.com/view/ld23DV)| incub | Drehender Kubus |
+|[AlphaTower](https://www.shadertoy.com/view/4t2cDW)| incub | 11 Buchstaben - Text einstellbar |
+|[rain water ripple](https://www.shadertoy.com/view/Mt33DH)| fuse | ABC !! sehr coole Tropfensimulation |
+|[contraction](https://www.shadertoy.com/view/7d2yRw)| incub | Cooler Effekt !! |
+|[Smoking Duck](https://www.shadertoy.com/view/mtfXD4)| incub | ABCD ! |
+|[try fluid 02](https://www.shadertoy.com/view/dtB3DV)| fuse | ABC !! Blending! |
+|[sphere_dof23](https://www.shadertoy.com/view/ssf3W2)| fuse | A Texturen !! |
+|[Visualizing Curl Noise](https://www.shadertoy.com/view/mlsSWH)| fuse | A !!!! Blending - viele Parameter|
+|[Coral Clock](https://www.shadertoy.com/view/cdX3Df)| incub | A ! LOD -> leicht anders |
+|[Doorway Transition](https://www.shadertoy.com/view/wt3fDn#)| incub |  |
+|[Transition: DoorWay](https://www.shadertoy.com/view/ltfGzf)| incub |  |
+|[Hellflame](https://www.shadertoy.com/view/3d3SRS)| incub | ABCD !! |
+|[Bubbles!!!](https://www.shadertoy.com/view/sdfGWr)| incub | ABCD Shaderfuse: Nochmal !!  |
+|[Glaciers](https://www.shadertoy.com/view/NssGDj)| incub | ABCD !! Blending |
+|[Rails and Roads](https://www.shadertoy.com/view/cdsGzX)| incub | !! |
+|[Line Tracking Fluid](https://www.shadertoy.com/view/tsKXzd)| incub | ABCD ! |
+|[Swirly Substance](https://www.shadertoy.com/view/wtS3zd)| incub | ABCD !! Blending |
+|[Melting screen](https://www.shadertoy.com/view/mtXXRn)| incub | ! |
+|[147k particles simulation](https://www.shadertoy.com/view/dllSR7)| incub | A ! Blending |
+|[swirl explosion](https://www.shadertoy.com/view/cdfSWM)| incub | ABC !! Blending |
+|[7 layers across time](https://www.shadertoy.com/view/stVcR1)| defect | A kein Bild |
+|[Jukebox](https://www.shadertoy.com/view/DtB3zV)| incub | ! noch keine Parameter |
+|[Curling Smoke](https://www.shadertoy.com/view/cl23Wt)| incub | A !!! Blending |
+|[Build the Palace](https://www.shadertoy.com/view/7tKfRV)| incub | Nur den Rahmen: Bindung oben |
+|[Interactive Waves](https://www.shadertoy.com/view/ldyfDG)| incub | A ! |
+|[Paint test](https://www.shadertoy.com/view/4lySDc)| incub | A ! |
+|[schrodinger fluid](https://www.shadertoy.com/view/ttVGzz)| incub | ABCD ! Blending |
+|[Composition](https://www.shadertoy.com/view/mlBGWV)| incub | AB !!! Blending |
+|[Rotating pixels](https://www.shadertoy.com/view/4ltSzj)| incub | A Blending ! |
+|[Voronoi vortex particle fluid](https://www.shadertoy.com/view/WdcXzS)| incub | AB ! Blending |
+|[Van Der Waals Forces](https://www.shadertoy.com/view/WtBSzD)| incub | ABCD ! Blending |
+|[Cave Paint](https://www.shadertoy.com/view/fssGW8)| incub | ABC !! Blending |
+|[Voronoi fluid advection](https://www.shadertoy.com/view/ts3SDj)| incub | ABCD ! etwas anderes Verhalten |
+|[Swirly Swirl Girl](https://www.shadertoy.com/view/wldyDH)| incub | A cooler Effekt |
+|[basic film burn](https://www.shadertoy.com/view/ltlBzn)| incub |  |
+|[Curl noise Image transition](https://www.shadertoy.com/view/tdj3W3)| incub |  |
+|[Transition : Burning](https://www.shadertoy.com/view/ltV3RG)| incub |  |
+|[Transitions : Swap](https://www.shadertoy.com/view/MlXGzf)| incub |  |
+|[Androgynous bolts](https://www.shadertoy.com/view/XtffzX)| incub | Cool ! |
+|[CombFuse: Burn it all](https://www.shadertoy.com/view/Wts3z7 )| incub |  |
+|[CombFuse: screenburn](https://www.shadertoy.com/view/sttSzr)| incub |  |
+|[CombFuse: Book Turning](https://www.shadertoy.com/view/Mlc3DX)| incub |  |
+|[CombFuse: Smaller and Smaller Tiles](https://www.shadertoy.com/view/lt33R7)| incub |  |
+|[Christmas boids party](https://www.shadertoy.com/view/dtj3Rh)| incub | ABCD ! |
+|[CombFuse: Shockwave Transition](https://www.shadertoy.com/view/cllGWl)| incub | sehr schöner Übergang |
+|[CombFuse: sunqirui_fire](https://www.shadertoy.com/view/7sfBD7)| incub | cooler Effekt |
+|[Crowdy waves 2](https://www.shadertoy.com/view/3ty3Dy)| incub | ABC ! Cooler Effekt, aber kein Blending möglich |
+|[JenKai Liu “The Reversal”](https://www.shadertoy.com/view/mtXGR2)| incub | A ! Coole Wolken |
+|[Engine Album](https://www.shadertoy.com/view/WsyGRK)| fuse | Nur den Rahmen -> PhotoAlbum.fuse |
+|[Sand Album](https://www.shadertoy.com/view/3slBRf)| fuse | Nur den Rahmen -> PhotoAlbum.fuse|
+|[Book of Life](https://www.shadertoy.com/view/ftKXzh| defect | A Buggy |
+|[Charged](https://www.shadertoy.com/view/tlt3Wj)| incub | ABCD !! Blending |
+|[Fork Synaptic by pirk0](https://www.shadertoy.com/view/fllSWn)| incub |  |
+|[slime mold duo](https://www.shadertoy.com/view/7d2XRK)| incub | AB leicht anderes Verhalten durch lod |
+|[PBR with Texture](https://www.shadertoy.com/view/tlXSzn)| incub | Textur auf Kugel |
+|[Magic forest](https://www.shadertoy.com/view/dtX3zl)| incub |  |
+|[You and what army?](https://www.shadertoy.com/view/dlXGzl)| incub | Cooler Effekt |
+|[Game of Colors](https://www.shadertoy.com/view/wlV3DG)| incub | AB ! Blending |
+|[Floating Heart](https://www.shadertoy.com/view/ttdBz7)| incub | WeddingShader |
+|[Phase Storm](https://www.shadertoy.com/view/fdXGzX)| incub | A ! Blending Unerklärliche Korrektur (+0.5f) notwendig |
+|[Pedagogical Font in use](https://www.shadertoy.com/view/4sdXD2)| incub | ! |
+|[water dragons](https://www.shadertoy.com/view/dsBXR1)| incub | ABC !!! Blending |
+|[radioactive water](https://www.shadertoy.com/view/dssXzs)| incub | ABC !! Blending |
+|[walls](https://www.shadertoy.com/view/mslSRs)| incub | ABC ! Blending |
+|[gludlenblungler](https://www.shadertoy.com/view/fl3yWl)| defect | ? :-( |
+|[point eaters](https://www.shadertoy.com/view/fltGW7)| incub | ABCD ! Blending (NaN) |
+|[fluid circuit erosion](https://www.shadertoy.com/view/fsfSzN)| incub | A ! Blending |
+|[abstract road maker](https://www.shadertoy.com/view/WlSSzm)| defect | :-( |
+|[Light Bundle](https://www.shadertoy.com/view/cdlGzl)| defect | fwidth - trail funktioniert nicht |
+|[Mixing Tank](https://www.shadertoy.com/view/DdlXDn)| incub | ABCD !! Blending |
+|[细胞游戏](https://www.shadertoy.com/view/DlXGDH)| incub | A |
+|[dilated shapes](https://www.shadertoy.com/view/4t3cD2)| incub | Cooler Effekt !! |
+|[Glow Pasta](https://www.shadertoy.com/view/WsyBWy)| incub | ABCD !! kein Blending möglich |
+|[Pseudo 3d surface](https://www.shadertoy.com/view/tlffDX)| defect | ABCD Bug nicht gefunden |
+|[multiscale diffusion](https://www.shadertoy.com/view/tdsyDj)| incub | A Blending Supercooler Effekt ! |
+|[Play with a Fluid](https://www.shadertoy.com/view/MtyBWh)| incub | ABCD Blending !!!! |
+|[Deoptimized Fluid](https://www.shadertoy.com/view/Wt2GWK)| incub | ABCD Blending2 !!!! |
+|[CombFuse: rgb shifting](https://www.shadertoy.com/view/lt2fzt)| incub | A ! |
+|[CombFuse: mrshmllwppsRbbdFrPlsre](https://www.shadertoy.com/view/lljfzd)| incub | A ! |
+|[Pure Vorofluid](https://www.shadertoy.com/view/3tG3zt)| incub | A Blending ! |
+|[2 much drugs](https://www.shadertoy.com/view/7d33zj)| incub | ABCD |
+|[IdentiEgg](https://www.shadertoy.com/view/slfXR7)| incub |  |
+|[CombFuse: Procedural Color Map](https://www.shadertoy.com/view/Xd3SzB| incub |  |
+|[CombFuse: Waternoise](https://www.shadertoy.com/view/mssSz4)| incub |  |
+|[CombFuse: Flowing water](https://www.shadertoy.com/view/lls3zf)| incub |  |
+|[CombFuse: Pseudo Fisheye](https://www.shadertoy.com/view/MtcXDH)| incub |  |
+|[CombFuse: Some sort of DareDevil Effect](https://www.shadertoy.com/view/NlfSRH)| incub |  |
+|[CombFuse: Eye-waves](https://www.shadertoy.com/view/ldjcz1)| incub |  |
+|[Firework 2022](https://www.shadertoy.com/view/NlyXDm)| incub |  |
+|[Catacombs Of Solaris Demake](https://www.shadertoy.com/view/mtf3R7)| incub | Lustiger 3D-Effekt  |
+|[SmoothLife(L)](https://www.shadertoy.com/view/XtdSDn)| incub | A Blending |
 |[Audio Flight v2 (strobes)](https://www.shadertoy.com/view/7tfyRl)| fuse | ShaderOfTheWeek 51/22 |
 |[Papier](https://www.shadertoy.com/view/cdBGzG)| incub | Lustig |
 |[Free Lightning](https://www.shadertoy.com/view/mts3zH)| incub | Cool ! |

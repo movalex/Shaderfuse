@@ -10,14 +10,14 @@ info = {
 
     Fuse = {
         Author = "JiPi",
-        -- Version = "",
-        -- Date = "31st of August 2021",
+        Version = "v1.0.1",
+        Date = "2021-08-31",
     },
 
     Compatibility = {
         macOS_Metal    = true,
-        macOS_OpenCL   = nil,
-        Windows_CUDA   = nil,
+        macOS_OpenCL   = true,
+        Windows_CUDA   = true,
         Windows_OpenCL = true,
     },
 }
